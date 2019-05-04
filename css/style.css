@@ -71,3 +71,28 @@
   font-size: 20px;
 }
 
+#notificaciones{
+  background-color:#e3e3e3;
+  padding-top: 105px;
+  padding-bottom: 105px; 
+}
+.email h3{
+  margin-top: 0;
+}
+.cajita{
+  margin-top: 20px;
+  padding-right: 130px;
+}
+.cajita input{
+  font-size: 18px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.cajita .input-group-btn button{
+  padding: 6px 32px;
+  font-size: 18px;
+  color: #fff;
+  background-color: #2ecc71;
+  border-radius: 0px 10px 10px 0px;
+  Position:absolute;
+}
