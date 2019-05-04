@@ -1,0 +1,50 @@
+#header{
+  	background-color:#fff;
+  	background: url('../imagenes/bg.png');
+  	background-position:center center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	padding: 200px 0 285px;
+  	border-top: 10px solid #2ecc71 
+}
+.logo h1{
+	font-family: 'Pacifico', cursive;
+ 	font-size: 60px;
+  	padding-bottom: 39px;
+  	color: #fff;
+}
+.logo{
+	font-family:arial;
+	font-size: 25px;
+	color: #fff;
+}
+.logo i{
+	border: none;
+    border-radius: 50%;
+    font-size: 25px;
+    line-height: 47px;
+    width: 52px;
+    height: 51px;
+    text-align: center;
+    background: #482f20;
+    color: #e6ded9;
+}
+.logo ul {
+    padding-left: 0;
+    display: block;
+}
+
+.logo ul li {
+    display: inline-block;
+}
+
+.logo ul a {
+    font-size: 30px;
+    color: #f4f4f4;
+    padding: 0 10px;
+}
+
+.logo ul i:hover {
+    background-color: #2ecc71;
+}
+
