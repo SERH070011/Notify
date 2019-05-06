@@ -101,3 +101,26 @@
   color: #848484;
   text-align: justify;
 }
+
+.redessociales i{
+  background-color:#d4d4d4;
+  border-radius: 50%;
+  padding: 10px;
+}
+.redessociales ul {
+    padding-left: 0;
+    display: block;
+}
+
+.redessociales ul li {
+    display: inline-block;
+}
+
+.redessociales ul a {
+    font-size: 30px;
+    color: #f4f4f4;
+    padding: 0 10px;
+}
+.redessociales ul i:hover{
+  background-color: #2ecc71;
+}
