@@ -124,3 +124,24 @@
 .redessociales ul i:hover{
   background-color: #2ecc71;
 }
+
+#footer{
+ padding: 40px 0;
+ background-color: #e3e3e3;
+ text-align: center; 
+}
+#footer ul {
+    padding-left: 0;
+    margin-top: 10px;
+    display: block;
+}
+
+#footer ul li {
+    display: inline-block;
+}
+
+#footer ul a {
+    color: #a1a1a1;
+    padding: 0 20px;
+    text-decoration: none;
+}
