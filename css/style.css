@@ -96,3 +96,8 @@
   border-radius: 0px 10px 10px 0px;
   Position:absolute;
 }
+.testi p{
+  padding: 70px 175px 10px 175px;
+  color: #848484;
+  text-align: justify;
+}
